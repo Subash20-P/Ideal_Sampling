@@ -10,14 +10,8 @@ To perform the construction and reconstruction of impulse or ideal sampling usin
 - Numpy Library
 - Scipy Library
 - Matplotlib Library
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 ## **PROGRAM**
 ```python
 import numpy as np
