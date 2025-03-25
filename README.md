@@ -51,7 +51,7 @@ plt.legend()
 plt.show()
 ```
 
-## ** OUTPUT WAVEFORM**
+## **OUTPUT WAVEFORM**
 ![exp1(a)](https://github.com/user-attachments/assets/32ec20ad-7deb-4fb0-b4cf-6f50790a2409)
 ![exp1(b)](https://github.com/user-attachments/assets/58a73da2-91cf-4202-8367-ae0709671164)
 ![exp1(c)](https://github.com/user-attachments/assets/dccbf17f-8874-4433-a6f8-35d6e4778f02)
